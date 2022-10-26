@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class App45 {
     public static void main(String[] args) {
 
-        Scanner scanner = new Scanner(System.in); // 初始化 Scanner 物件
+        Scanner scanner = new Scanner(System.in); 
         System.out.print("輸入筆數n:");
         int n = scanner.nextInt();
         String[] medal = { "金", "銀", "銅", "優" };

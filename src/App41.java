@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class App41 {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in); // 初始化Scanner
+        Scanner scanner = new Scanner(System.in); 
         int a, b, c,k; 
         Float x1, x2;
         

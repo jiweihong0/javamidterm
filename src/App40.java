@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class App40 {
     public static void main(String[] args) {
         
-        Scanner scanner = new Scanner(System.in); // 初始化Scanner
+        Scanner scanner = new Scanner(System.in); 
         System.out.print("搭了幾次電梯:");
         int n = scanner.nextInt();
         int[] times=new int[n];

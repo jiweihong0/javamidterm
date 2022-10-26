@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class App60 {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in); // 初始化 Scanner 物件
+        Scanner scanner = new Scanner(System.in); 
         System.out.print("請輸入一串小寫英文:");
         String[] word = scanner.next().split("");
         String[] vowel={"a","e","i","o","u"};

@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class App44 {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in); // 初始化 Scanner 物件
+        Scanner scanner = new Scanner(System.in); 
         int M, D, S;
         M = scanner.nextInt();
         D = scanner.nextInt();

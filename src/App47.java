@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class App47 {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in); // 初始化 Scanner 物件
+        Scanner scanner = new Scanner(System.in); 
         System.out.print("輸入筆數n:");
         String n = scanner.nextLine();
         HashMap<String, String> word = new HashMap<String, String>();
