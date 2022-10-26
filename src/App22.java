@@ -4,7 +4,6 @@ public class App22 {
     Scanner scanner = new Scanner(System.in);
     System.out.print("榆入查詢組數N為：");
     int num=scanner.nextInt();   
-
     Dictionary password = new Hashtable();
     password.put("123","456");
     password.put("456","789");
